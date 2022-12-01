@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Nilda/static/css/main.6a9f0695.css",
-    "main.js": "/Nilda/static/js/main.10ce99bc.js",
+    "main.css": "/Nilda/static/css/main.86459c69.css",
+    "main.js": "/Nilda/static/js/main.7ee96153.js",
     "index.html": "/Nilda/index.html",
-    "main.6a9f0695.css.map": "/Nilda/static/css/main.6a9f0695.css.map",
-    "main.10ce99bc.js.map": "/Nilda/static/js/main.10ce99bc.js.map"
+    "main.86459c69.css.map": "/Nilda/static/css/main.86459c69.css.map",
+    "main.7ee96153.js.map": "/Nilda/static/js/main.7ee96153.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a9f0695.css",
-    "static/js/main.10ce99bc.js"
+    "static/css/main.86459c69.css",
+    "static/js/main.7ee96153.js"
   ]
 }
